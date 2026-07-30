@@ -12,4 +12,4 @@ If you are willing to contribute with a Microsoft Foundry example, or even just 
 - Make sure to follow the same style as the existing examples, there's no such thing as a template, but all the examples are pretty similar in style, so ideally follow the same style for any new example.
 - As an optional check, you are recommended to run `codespell` (or any other grammar checks) before you push the content to make sure that is well-written.
 
-If alternatively you'd like us to build an example that you have in mind or that you'd like to see, you can always [open an issue](https://github.com/huggingface/Microsoft-Azure/issues/new) describing the example and we'll do our best to build it if interesting.
+If alternatively you'd like us to build an example that you have in mind or that you'd like to see, you can always [open an issue](https://github.com/Unity-Legal-Affairs/Microsoft-Azure/issues/new) describing the example and we'll do our best to build it if interesting.
